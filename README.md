@@ -15,13 +15,18 @@ Creating an EC2 Machine as Webserver with Wordpress on it (using script in the u
 
 a) Setup the environment variables
 $env:AWS_ACCESS_KEY_ID=""
+
 $env:AWS_SECRET_ACCESS_KEY=""
+
 $env:AWS_REGION=""
 
 b)Terraform Setup
 terraform init
+
 terraform plan -out main.tfstate
+
 terraform apply -out main.tfstate
+
 
 
 
