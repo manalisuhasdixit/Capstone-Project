@@ -9,6 +9,7 @@ Creating an EC2 Machine as Webserver with Wordpress on it (using script in the u
 
 **Architecture Diagram**
 
+![Capstone](https://github.com/manalisuhasdixit/Capstone-Project/assets/160490464/d274e2c8-18b3-4d01-85bc-44f3a53d2b69)
 
 
 **Perequisite**
