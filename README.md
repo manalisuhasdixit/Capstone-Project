@@ -7,3 +7,14 @@ Creating an EC2 Machine as Webserver with Wordpress on it (using script in the u
 - Script needs to be adjusted since the database will be on RDS 
 - Multi-AZ RDS in private subnet
 
+**Architecture Diagram**
+
+
+
+**Perequisite**
+$env:AWS_ACCESS_KEY_ID=""
+$env:AWS_SECRET_ACCESS_KEY=""
+$env:AWS_REGION=""
+
+
+
